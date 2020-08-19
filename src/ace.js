@@ -1,0 +1,2 @@
+//
+module.exports = () => 'ace components';
